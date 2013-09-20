@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<scheme name="vs2012" version="124" parent_scheme="Default">
+<scheme name="vs2013" version="124" parent_scheme="Default">
   <option name="LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_SIZE" value="14" />
   <option name="CONSOLE_FONT_NAME" value="Monospaced" />
@@ -106,7 +106,7 @@
     </option>
     <option name="CSS.IDENT">
       <value>
-        <option name="FOREGROUND" value="e8bf6a" />
+        <option name="FOREGROUND" value="d7a14e" />
       </value>
     </option>
     <option name="CSS.IMPORTANT">
@@ -116,7 +116,7 @@
     </option>
     <option name="CSS.KEYWORD">
       <value>
-        <option name="FOREGROUND" value="cc7833" />
+        <option name="FOREGROUND" value="569cd6" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -127,12 +127,12 @@
     </option>
     <option name="CSS.PROPERTY_NAME">
       <value>
-        <option name="FOREGROUND" value="1ba2c6" />
+        <option name="FOREGROUND" value="9cdcbd" />
       </value>
     </option>
     <option name="CSS.PROPERTY_VALUE">
       <value>
-        <option name="FOREGROUND" value="a5c261" />
+        <option name="FOREGROUND" value="c8c893" />
       </value>
     </option>
     <option name="CSS.STRING">
@@ -559,10 +559,14 @@
     <option name="JSP_SCRIPTING_BACKGROUND">
       <value />
     </option>
+    <option name="LESS_KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="ffffff" />
+      </value>
+    </option>
     <option name="LESS_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="94ccfd" />
-        <option name="BACKGROUND" value="2b2b2b" />
+        <option name="FOREGROUND" value="c563bd" />
         <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
@@ -594,8 +598,9 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="1b5b89" />
+        <option name="BACKGROUND" value="113d6f" />
         <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_COLOR" value="427fbf" />
       </value>
     </option>
     <option name="METHOD_DECLARATION_ATTRIBUTES">
